@@ -7,7 +7,6 @@ Welcome to my game development portfolio! I am Faiz Ansari, a certified game dev
 ### 1. Basketball-Shot-Court-Conquest
 **Description:** This is my First ever 2D Unity game which I build , remaining details are in the Link.
 - [Basketball-Shot-Court-Conquest](https://github.com/faezur/basketball-shot-court-conquest)
-
 - [Soccer Jump Challenge](https://github.com/faezur/soccer-jump-challenge/blob/main/README.md)
 - [One-Minute Basketball Blitz](https://github.com/faezur/one-minute-basketball-blitz)
 - [FootPong](https://github.com/faezur/footpong?tab=readme-ov-file)
