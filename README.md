@@ -32,6 +32,7 @@ Welcome to my game development portfolio! I am Faiz Ansari, a certified game dev
 - [Hoops-Challenge](https://github.com/faezur/Hoops-Challenge)
 - [Super Over 2D Cricket](https://github.com/faezur/Super-Over-2D-Cricket)
 - [Football-Dribbler](https://github.com/faezur/Football-Dribbler)
+- [DApp-Clicker-Game](https://github.com/faezur/ClickerGame)
 
 
 Thank you for checking out my portfolio! Feel free to explore the repositories for each game to see the code and learn more about my work. If you have any questions or feedback, please don't hesitate to reach out.
