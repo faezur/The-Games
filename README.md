@@ -40,6 +40,6 @@ Thank you for checking out my portfolio! Feel free to explore the repositories f
 **Contact:**
 - Email: [faiz.ansari50@gmail.com]
 - LinkedIn: [linkedin.com/in/Faiz_Ansari]
-- MobileNo.: +91892368027
+- MobileNo.: +918962368027
 
 Happy gaming!
